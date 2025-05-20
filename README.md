@@ -170,7 +170,7 @@ public static boolean tieneDuplicadosOpt(int[] arr) {
 1. Compila primero el código fuente del ejercicio 2:
 
    ```bash
-   javac -d out src/main/ejercico3/AlgoritmosInóptimos.java src/main/ejercico3/RespuestasOptimizadas.java
+   javac -d out src/main/ejercicio2/AlgoritmosInoptimos.java src/main/ejercicio2/RespuestasOptimizadas.java
    ```
 2. Luego compila el test (indicando el classpath de salida):
 
